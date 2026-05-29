@@ -52,7 +52,7 @@
 
 Este ejercicio no es para programar. Lean el código y escriban una explicación de que hace.
 
-
+```python
 
 linea = " mara ; programación ; 8 "
 
@@ -77,6 +77,8 @@ if nota\_texto.isnumeric():
 else:
 
 &#x20;   print("La nota no es valida")
+
+```
 
 Para orientar la explicación:
 
