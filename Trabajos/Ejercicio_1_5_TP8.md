@@ -65,21 +65,21 @@ B-  ¿Qué hace la función limpiar?
 La función elimina los espacios al principio y al final usando strip() y luego normaliza el texto usando capitalize().
 
 Ej:
-
+```python
 " bart " -> "Bart"
-
+```
 C- ¿Qué hace la función es_valido?
 
 Verifica que el nombre tenga 3 o más caracteres.
 
 Si tiene 3 o más devuelve:
-
+```python
 True
-
+```
 Si no tiene:
-
+```python
 False
-
+```
 D- ¿Qué nombres quedan almacenados en validos?
 
 Original:
