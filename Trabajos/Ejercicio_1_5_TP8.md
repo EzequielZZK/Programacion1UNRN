@@ -83,9 +83,9 @@ False
 D- ¿Qué nombres quedan almacenados en validos?
 
 Original:
-
+```python
 [" bart ", "ED", " walter", "rick "]
-
+```
 Después de limpiar:
 
 "Bart" - "Ed" - "Walter" - "Rick"
@@ -98,12 +98,12 @@ Walter → 6 letras
 Rick → 4 letras 
 
 Entonces quedan:
-
+```python
 ["Bart", "Walter", "Rick"]
-
+```
 
 E-  ¿Qué imprime el programa al finalizar?
-
+```python
 ['Bart', 'Walter', 'Rick']  
-
+```
 
