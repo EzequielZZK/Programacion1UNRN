@@ -1,4 +1,3 @@
-```python
 
 Trabajo practico 8
 
@@ -32,6 +31,8 @@ Ejemplo: una ciudad con su temperatura.
 
 ##########################
 
+```python
+
 Ejercicio 5:
 
 def limpiar(texto):
@@ -52,6 +53,8 @@ for nombre in nombres:
         validos.append(nombre_limpio)
 
 print(validos)
+
+```
 
 A-  ¿Qué hace el programa?
 
@@ -103,4 +106,4 @@ E-  ¿Qué imprime el programa al finalizar?
 
 ['Bart', 'Walter', 'Rick']  
 
-```
+
